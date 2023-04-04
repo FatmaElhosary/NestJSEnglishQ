@@ -1,0 +1,261 @@
+[
+  {
+    "id": "1",
+    "qNumber": "Q1",
+    "btn_answer": "Show Suggestion",
+    "paragraph": "To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day. To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day. To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day. To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.",
+    "questions": [
+      {
+        "id": "1",
+        "question": "What’s the main idea of the text?",
+        "answers": [
+          {
+            "id": "1",
+            "ans_num": "A",
+            "answer": "Staying healthy",
+            "why": [
+              {
+                "key": "fruit"
+              },
+              {
+                "key": "good breakfast"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "ans_num": "B",
+            "answer": "Healthy and unhealthy food",
+            "why": [
+              {
+                "key": "fruit"
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "ans_num": "C",
+            "answer": "How to be healthy",
+            "why": [
+              {
+                "key": "healthy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "question": "Summarize the first paragraph in one sentence.",
+        "answers": [
+          {
+            "id": "1",
+            "ans_num": "A",
+            "answer": "Fruit and vegetables are very healthy.",
+            "why": [
+              {
+                "key": "play"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "ans_num": "B",
+            "answer": "Eating variety of food is important.",
+            "why": [
+              {
+                "key": "vegetables"
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "ans_num": "C",
+            "answer": "We shouldn’t eat sweets to stay healthy.",
+            "why": [
+              {
+                "key": "shouldn’t drink"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "question": "Summarize the second paragraph in one sentence.",
+        "answers": [
+          {
+            "id": "1",
+            "ans_num": "A",
+            "answer": "Water is very important for our bodies.",
+            "why": []
+          },
+          {
+            "id": "2",
+            "ans_num": "B",
+            "answer": "Fizzy drinks are very bad for us.",
+            "why": []
+          },
+          {
+            "id": "3",
+            "ans_num": "C",
+            "answer": "We should watch TV for one hour a day",
+            "why": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "qNumber": "Q2",
+    "btn_answer": "Show answer",
+    "paragraph": "",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Write a paragraph about“ My favorite place",
+        "answers": [
+          {
+            "id": "1",
+            "ans_num": "A",
+            "answer": "1-Al-Azhar ParkI like visiting green areas. My favorite place is Al-AzharPark. I always go there with my family. My mom usuallymakes us a picnic. We enjoy the beautiful plants and birdsin the pak.",
+            "why": []
+          },
+          {
+            "id": "2",
+            "ans_num": "B",
+            "answer": "2-AlexandriaAlexandria is a fantastic city. It’s my favorite place. I alwaysgo to Alexandria in summer. It has amazing restaurants,markets and beaches. ",
+            "why": []
+          },
+          {
+            "id": "3",
+            "ans_num": "C",
+            "answer": "3-New AlameinI visited a lot of places but New Alamein is my favorite.There are a lot of things to do there. It is on the beach. Wecan go to the sea. We can also visit the International Park.",
+            "why": []
+          },
+          {
+            "id": "4",
+            "ans_num": "C",
+            "answer": "4-The wildlife Park Last Friday, I visited the wildlife park. It was amazing. I saw lots of animals. The lion was very strong. The parrot wasvery beautiful.",
+            "why": []
+          },
+          {
+            "id": "5",
+            "ans_num": "C",
+            "answer": "5-Paris Paris is a fantastic place. There’s so much to do there. We can visit the Louvre. It’s a beautiful museum. We can alsosee Eiffel Tower. It’s very tall. Paris is my favorite place",
+            "why": []
+          }
+        ]
+      }
+    ]
+  }
+,
+{
+  "id": "1",
+  "qNumber": "Q1",
+  "btn_answer": "Show Suggestion",
+  "paragraph": "To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day. To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day. To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day. To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.To stay healthy, it’s very important to eat a variety of food, specially fruit and vegetables. It is very important to have good breakfast in the morning. You shouldn’t have sweets every day.Most of our body is water, so it is necessary to drink plenty of water every day. You shouldn’t drink a lot of fizzy drinks because they aren’t good for your health. You shouldn’t watch TV or play on the computer more than one hour a day.",
+  "questions": [
+    {
+      "id": "1",
+      "question": "What’s the main idea of the text?",
+      "answers": [
+        {
+          "id": "1",
+          "ans_num": "A",
+          "answer": "Staying healthy",
+          "why": [
+            {
+              "key": "fruit"
+            },
+            {
+              "key": "good breakfast"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "ans_num": "B",
+          "answer": "Healthy and unhealthy food",
+          "why": [
+            {
+              "key": "fruit"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "ans_num": "C",
+          "answer": "How to be healthy",
+          "why": [
+            {
+              "key": "healthy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "question": "Summarize the first paragraph in one sentence.",
+      "answers": [
+        {
+          "id": "1",
+          "ans_num": "A",
+          "answer": "Fruit and vegetables are very healthy.",
+          "why": [
+            {
+              "key": "play"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "ans_num": "B",
+          "answer": "Eating variety of food is important.",
+          "why": [
+            {
+              "key": "vegetables"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "ans_num": "C",
+          "answer": "We shouldn’t eat sweets to stay healthy.",
+          "why": [
+            {
+              "key": "shouldn’t drink"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "question": "Summarize the second paragraph in one sentence.",
+      "answers": [
+        {
+          "id": "1",
+          "ans_num": "A",
+          "answer": "Water is very important for our bodies.",
+          "why": []
+        },
+        {
+          "id": "2",
+          "ans_num": "B",
+          "answer": "Fizzy drinks are very bad for us.",
+          "why": []
+        },
+        {
+          "id": "3",
+          "ans_num": "C",
+          "answer": "We should watch TV for one hour a day",
+          "why": []
+        }
+      ]
+    }
+  ]
+}
+]
