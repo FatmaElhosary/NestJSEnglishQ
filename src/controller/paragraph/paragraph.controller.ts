@@ -131,7 +131,7 @@ export class ParagraphController {
       });
     }
   }
-
+///////////////Download zip file/////////////////////////////////////
   @Get('/zip/folder/:zipFileName')
   async getFile(@Res() response, @Param('zipFileName') zipFileName: string) {
     try {
